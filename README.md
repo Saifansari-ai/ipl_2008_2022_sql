@@ -1,4 +1,4 @@
-# Ball by ball ipl data from 2008 to 2023 SQL project
+# Ball by ball ipl data from 2008 to 2022 SQL project
 In this SQL project i have a dataset of the ball by ball ipl from 2008 to 20023 and i have done very detail analysis of the data.
 these are the queries that i have done on this data 
 1. CREATE A COPY OF THE ORIGINAL DATASET TO DO ANALYSIS  AND DOING CHANGES TO THE DATA SO RAW DATA SHOULD BE SAFE IN ORDER TO DO ANY BLUNDER
